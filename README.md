@@ -9,6 +9,6 @@
 
 ![8083 Instance](https://github.com/user-attachments/assets/606bdfcd-58dc-4a4a-ab60-6236df29f5e0)
 
-Regsitering Student Service with Eureka Service 
+Regsitering Student Service with Eureka Server
 
 ![Regsitering with Eureka Server](https://github.com/user-attachments/assets/c79230ab-3808-4cac-a26b-4e8e70db5484)
